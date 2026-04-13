@@ -1,0 +1,227 @@
+[
+    {
+        "state": "WARNING",
+        "equip": "ELD3507",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 579 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 13032.66\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12831.81\nElbow(EA) : 2\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 13121.43\nElbow(EA) : 2\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 14065.62\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 53051.520000000004\n총 elbow 수 (EA) : 10"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3526",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 834 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12834.24\nElbow(EA) : 2\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 13410.53\nElbow(EA) : 4\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 14027.18\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 40271.95\n총 elbow 수 (EA) : 10"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO3568",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 348 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12925.74\nElbow(EA) : 2\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 13077.91\nElbow(EA) : 2\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 13944.300000000001\nElbow(EA) : 4\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 14351.35\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 54299.3\n총 elbow 수 (EA) : 12"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETP3501",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 293 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12781.39\nElbow(EA) : 4\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12780.37\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13211.7\nElbow(EA) : 4\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13215.09\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 51988.55\n총 elbow 수 (EA) : 14"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3523",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 812 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[C/B A]\nSize(mm) : 125\nlength(mm) : 12842.99\nElbow(EA) : 2\n\n[C/B C]\nSize(mm) : 125\nlength(mm) : 13398.86\nElbow(EA) : 2\n\n[C/B B]\nSize(mm) : 125\nlength(mm) : 13222.68\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39464.53\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3516",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 322 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12767.11\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12907.37\nElbow(EA) : 4\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13233.81\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38908.29\n총 elbow 수 (EA) : 10"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELD3503",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 438 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 13010.51\nElbow(EA) : 2\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 13012.73\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12812.95\nElbow(EA) : 2\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 13845.85\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 52682.04\n총 elbow 수 (EA) : 10"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETP3505",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 374 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12727.57\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12781.84\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12954.77\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13104.53\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 51568.71\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3528",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 412 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12794.87\nElbow(EA) : 2\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12839.800000000001\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13370.64\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39005.31\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3522",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 454 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12760.130000000001\nElbow(EA) : 2\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12887.1\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13952.39\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39599.62\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3527",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 518 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12789.08\nElbow(EA) : 2\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12908.57\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13989.7\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39687.350000000006\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3518",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 706 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12901.99\nElbow(EA) : 2\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 13169.95\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13359.02\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39430.96000000001\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO3569",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 252 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 12874.43\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 13000.51\nElbow(EA) : 2\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 13311.66\nElbow(EA) : 2\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 14050.130000000001\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 53236.73000000001\n총 elbow 수 (EA) : 10"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3529",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 900 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12838.01\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13383.51\nElbow(EA) : 2\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 13254.56\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39476.08\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3525",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 418 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12784.11\nElbow(EA) : 2\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12833.65\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13558.6\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39176.36\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3514",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 342 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12772.26\nElbow(EA) : 2\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12835.42\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13238.81\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38846.49\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3504",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 341 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13171.15\nElbow(EA) : 4\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13146.17\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13278.89\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39596.21\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3520",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 328 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12751.92\nElbow(EA) : 2\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12820.66\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13233.43\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38806.01\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELO3511",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 229 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 12744.02\nElbow(EA) : 2\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 12960.69\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 13356.460000000001\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39061.17\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELD3504",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 448 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12812.76\nElbow(EA) : 2\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 12814.25\nElbow(EA) : 2\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 13133.11\nElbow(EA) : 2\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 13226.93\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 51987.05\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3506",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 251 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12953.9\nElbow(EA) : 2\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 12973.4\nElbow(EA) : 2\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 13724.880000000001\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39652.18\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3502",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 446 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12814.86\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12986.75\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13435.85\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39237.46\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELD3505",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 352 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 13014.85\nElbow(EA) : 2\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 13027.710000000001\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12811.77\nElbow(EA) : 2\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 13878.970000000001\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 52733.3\n총 elbow 수 (EA) : 10"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EMA3504",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 2 \nMiddle Foreline 연결 좌표 수 : 2 \nPump 연결 좌표 수 : 2 \n범위 내 장애물 수 : 181 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12557.02\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12825.91\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 25382.93\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA3511",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 473 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 12779.84\nElbow(EA) : 2\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 12933.54\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12967.45\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38680.83\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELO3510",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 166 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 12731.550000000001\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12736.07\nElbow(EA) : 2\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 12822.550000000001\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38290.170000000006\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3521",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 578 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12773.86\nElbow(EA) : 2\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 13392.03\nElbow(EA) : 4\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13953.04\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 40118.93\n총 elbow 수 (EA) : 10"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3515",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 612 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12728.73\nElbow(EA) : 2\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 13331.82\nElbow(EA) : 4\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13970.220000000001\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 40030.770000000004\n총 elbow 수 (EA) : 10"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3513",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 326 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12729.92\nElbow(EA) : 2\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12822.57\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13226.54\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38779.03\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3524",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 488 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 13079.960000000001\nElbow(EA) : 4\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12862.54\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13681.220000000001\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39623.72\n총 elbow 수 (EA) : 10"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO35N2",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 269 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM5]\nSize(mm) : 125\nlength(mm) : 12691.95\nElbow(EA) : 2\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 12694.210000000001\nElbow(EA) : 2\n\n[ PM6]\nSize(mm) : 125\nlength(mm) : 12946.86\nElbow(EA) : 4\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 13033.9\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 51366.920000000006\n총 elbow 수 (EA) : 12"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELD3502",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 549 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 13013.19\nElbow(EA) : 2\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 13043.11\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 13474.37\nElbow(EA) : 4\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 14260.6\nElbow(EA) : 6\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 53791.270000000004\n총 elbow 수 (EA) : 14"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO35N1",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 255 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM6]\nSize(mm) : 125\nlength(mm) : 13444.39\nElbow(EA) : 4\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 12932.0\nElbow(EA) : 4\n\n[ PM5]\nSize(mm) : 125\nlength(mm) : 12795.37\nElbow(EA) : 4\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 13044.41\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 52216.17\n총 elbow 수 (EA) : 16"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3503",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 445 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13142.01\nElbow(EA) : 4\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13008.78\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13230.2\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39380.990000000005\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3505",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 176 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 12944.25\nElbow(EA) : 4\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 12956.630000000001\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12966.1\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38866.98\n총 elbow 수 (EA) : 8"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3519",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 242 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ C/B A]\nSize(mm) : 125\nlength(mm) : 12851.5\nElbow(EA) : 2\n\n[ C/B B]\nSize(mm) : 125\nlength(mm) : 12870.880000000001\nElbow(EA) : 2\n\n[ C/B C]\nSize(mm) : 125\nlength(mm) : 13210.82\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38933.2\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELD3506",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 325 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 12827.45\nElbow(EA) : 4\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12817.220000000001\nElbow(EA) : 2\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 13103.67\nElbow(EA) : 2\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 13118.08\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 4\n총 배관 길이 (mm) : 51866.420000000006\n총 elbow 수 (EA) : 10"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EMA3503",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 2 \nMiddle Foreline 연결 좌표 수 : 2 \nPump 연결 좌표 수 : 2 \n범위 내 장애물 수 : 141 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12540.27\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12614.11\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 25154.38\n총 elbow 수 (EA) : 4"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELE3509",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 390 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12901.39\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12961.58\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13300.59\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39163.56\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3501",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 309 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13090.94\nElbow(EA) : 4\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12988.35\nElbow(EA) : 4\n\n[ ]\nSize(mm) : 125\nlength(mm) : 13318.720000000001\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 39398.01\n총 elbow 수 (EA) : 12"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELO3509",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 146 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 12729.59\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12740.49\nElbow(EA) : 2\n\n[ PM4]\nSize(mm) : 125\nlength(mm) : 12820.03\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38290.11\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA3509",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 446 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12823.02\nElbow(EA) : 2\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 12978.45\nElbow(EA) : 2\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 13102.02\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38903.490000000005\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EMA3502",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 2 \nMiddle Foreline 연결 좌표 수 : 2 \nPump 연결 좌표 수 : 2 \n범위 내 장애물 수 : 161 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12517.17\nElbow(EA) : 2\n\n[ ]\nSize(mm) : 125\nlength(mm) : 12743.66\nElbow(EA) : 4\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 25260.83\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA3510",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 242 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM1]\nSize(mm) : 125\nlength(mm) : 12813.48\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 13083.710000000001\nElbow(EA) : 2\n\n[ PM2]\nSize(mm) : 125\nlength(mm) : 13089.08\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38986.270000000004\n총 elbow 수 (EA) : 6"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA3530",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 192 \n<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<라우팅 결과>\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12926.26\nElbow(EA) : 4\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12883.7\nElbow(EA) : 2\n\n[ PM3]\nSize(mm) : 125\nlength(mm) : 12889.09\nElbow(EA) : 2\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 38699.05\n총 elbow 수 (EA) : 8"
+    }
+]

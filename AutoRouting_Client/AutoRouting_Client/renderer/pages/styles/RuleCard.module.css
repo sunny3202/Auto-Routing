@@ -1,0 +1,26 @@
+.TdNumberField {
+    width: 30px;
+}
+
+.TdRule {
+    width: 310px;
+    text-align: left;
+}
+
+.TdButtonField {
+    width: 70px;
+}
+
+.TdDeleteField {
+    width: 30px;
+}
+
+.RuleContent {
+    padding: 10px;
+    overflow-y: auto;
+}
+
+.RuleFooter {
+    height: 36px;
+    padding: 1px;
+}

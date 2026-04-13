@@ -1,0 +1,16 @@
+{
+    "path_finding_parameter":{
+        "is_vacuum_pipes": true,
+        "is_interference_allowed": false,
+        "is_failed_result_included": true,
+        "bending_optimization_weight":5,
+        "min_straight_distance":150,
+        "accuracy": 50,
+        "turn_count_limit" : 6,
+        "greedy_turn" : true
+    },
+    "modeling_parameter":{
+        "use_bim_attribute_mapping":true,
+        "use_bim_material_mapping": true
+    }
+}

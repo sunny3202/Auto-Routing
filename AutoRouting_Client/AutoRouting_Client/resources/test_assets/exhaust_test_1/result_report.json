@@ -1,0 +1,242 @@
+[
+    {
+        "state": "SUCCESS",
+        "equip": "MDF4311",
+        "description": "<입력 정보 검증 결과>\n이상 없음\n\n<전처리>\n이상 없음\n\n[HEAT]\nSize(mm) : 250.0\nlength(mm) : 15331.0\nElbow(EA) : 22\n\n[Total]\nFrom To 수 : 1\n총 배관 길이 (mm) : 15331.0\n총 elbow 수 (EA) : 22"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EHP4207",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nCABINET - (128050.0, 64397.3, 21550.0)\nCABINET - (128050.0, 64597.5, 21800.0)\n\n<전처리>\n이상 없음\n\n[HEAT]\nSize(mm) : 25.0\nlength(mm) : 5687.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6524.0\nElbow(EA) : 6\n\n[HEAT]\nSize(mm) : 25.0\nlength(mm) : 4820.99\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6049.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5614.49\nElbow(EA) : 10\n\n[HEAT]\nSize(mm) : 25.0\nlength(mm) : 6944.0\nElbow(EA) : 14\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8078.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5551.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6791.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6751.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 6905.99\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7202.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9067.0\nElbow(EA) : 15\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8052.0\nElbow(EA) : 10\n\n[HEAT]\nSize(mm) : 25.0\nlength(mm) : 10738.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 15527.99\nElbow(EA) : 14\n\n[Total]\nFrom To 수 : 16\n총 배관 길이 (mm) : 120307.42\n총 elbow 수 (EA) : 155"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESO4307",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139802.2, 70589.5, 10950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5427.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5942.0\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6098.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7306.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5362.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6857.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 13.0\nlength(mm) : 6267.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 15645.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 16073.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 17222.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 16887.99\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 109089.96\n총 elbow 수 (EA) : 87"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESO4306",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (127133.0, 87709.5, 10946.0)\nACID - (126771.8, 87909.5, 10946.0)\nACID - (127133.0, 88289.5, 10946.0)\nACID - (126668.6, 89329.5, 10946.0)\nACID - (127176.5, 89562.8, 10946.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5012.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5138.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5142.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5286.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 13.0\nlength(mm) : 4407.99\nElbow(EA) : 4\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6606.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7847.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7362.66\nElbow(EA) : 15\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7057.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 15245.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 17017.0\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 86122.62999999999\n총 elbow 수 (EA) : 84"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELO4323",
+        "description": "<입력 정보 검증 결과>\n이상 없음\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5086.99\nElbow(EA) : 4\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6587.39\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 200.0\nlength(mm) : 7424.99\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 19099.370000000003\n총 elbow 수 (EA) : 23"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4301",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (126642.0, 66158.6, 10946.0)\nACID - (139265.0, 66831.7, 10950.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6960.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6360.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6543.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6396.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6146.99\nElbow(EA) : 9\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 8633.99\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 14592.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 17955.36\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 17963.28\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 91551.60999999999\n총 elbow 수 (EA) : 83"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4312",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (127004.4, 66484.3, 10946.0)\nACID - (139240.0, 66248.3, 10950.0)\nACID - (139981.4, 66570.7, 10950.0)\nACID - (139827.9, 67081.9, 10950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4339.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4533.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4826.99\nElbow(EA) : 6\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 5207.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4755.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5298.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6002.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8936.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 22416.52\nElbow(EA) : 19\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 66314.5\n총 elbow 수 (EA) : 78"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4227",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139265.0, 69390.6, 10950.0)\nACID - (139265.0, 69866.2, 10950.0)\nACID - (139265.0, 70927.4, 10950.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5110.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6160.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6915.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6765.0\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7643.99\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6146.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7608.0\nElbow(EA) : 12\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 11233.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 19091.4\nElbow(EA) : 19\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 76674.37\n총 elbow 수 (EA) : 89"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4226",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139265.0, 79092.5, 10950.0)\nACID - (139827.9, 80229.4, 10950.0)\nACID - (150603.3, 79518.1, 10950.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4860.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5933.0\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7093.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6365.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6678.0\nElbow(EA) : 4\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 7833.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 18691.4\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 15193.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 17548.0\nElbow(EA) : 12\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 90196.38\n총 elbow 수 (EA) : 77"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EHP4206",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (126978.2, 82923.1, 10946.0)\nCABINET - (128050.0, 81858.9, 21800.0)\nCABINET - (128050.0, 82058.9, 21550.0)\n\n<전처리>\n이상 없음\n\n[HEAT]\nSize(mm) : 25.0\nlength(mm) : 4586.0\nElbow(EA) : 6\n\n[HEAT]\nSize(mm) : 25.0\nlength(mm) : 5269.99\nElbow(EA) : 5\n\n[HEAT]\nSize(mm) : 25.0\nlength(mm) : 4820.99\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4670.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6525.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5473.66\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5031.99\nElbow(EA) : 8\n\n[HEAT]\nSize(mm) : 25.0\nlength(mm) : 5995.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6578.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5151.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7191.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6902.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7567.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 7705.99\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7702.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7568.0\nElbow(EA) : 6\n\n[Total]\nFrom To 수 : 16\n총 배관 길이 (mm) : 98742.57\n총 elbow 수 (EA) : 113"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4304",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (126642.0, 83246.2, 10946.0)\nACID - (139265.0, 84133.0, 10950.0)\nACID - (139827.9, 84469.3, 10950.0)\nACID - (140260.0, 82798.6, 10695.7)\nCABINET - (137650.0, 83140.1, 21550.0)\nCABINET - (147700.0, 83752.1, 21950.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6960.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6115.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6373.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6146.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8008.0\nElbow(EA) : 9\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 11033.99\nElbow(EA) : 15\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 14592.0\nElbow(EA) : 15\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 17555.36\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 19993.99\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 96778.33\n총 elbow 수 (EA) : 92"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP4231",
+        "description": "<입력 정보 검증 결과>\n이상 없음\n\n<전처리>\n진공 설비 POC 충돌 대상 : EAP4231 - C EAP4231 - A EAP4231 - B \n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4586.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 40.0\nlength(mm) : 4945.0\nElbow(EA) : 4\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6666.99\nElbow(EA) : 12\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6649.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5861.13\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 75.0\nlength(mm) : 10249.0\nElbow(EA) : 14\n\n[CABINET]\nSize(mm) : 75.0\nlength(mm) : 10239.0\nElbow(EA) : 13\n\n[CABINET]\nSize(mm) : 75.0\nlength(mm) : 11740.0\nElbow(EA) : 12\n\n[Total]\nFrom To 수 : 8\n총 배관 길이 (mm) : 60936.119999999995\n총 elbow 수 (EA) : 75"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4235",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139827.9, 86695.0, 10950.0)\nACID - (139265.0, 87331.8, 10950.0)\nACID - (139265.0, 88318.1, 10950.0)\nACID - (139802.2, 88554.2, 10950.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5860.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5810.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7543.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6765.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6595.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6674.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7078.0\nElbow(EA) : 6\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9033.99\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 15192.99\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 70552.97\n총 elbow 수 (EA) : 78"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4306",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139827.9, 90163.4, 10950.0)\nACID - (139265.0, 90774.7, 10950.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4809.99\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5643.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7215.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7373.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6146.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7208.0\nElbow(EA) : 7\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 7433.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 15435.0\nElbow(EA) : 15\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 17555.36\nElbow(EA) : 8\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 78821.32\n총 elbow 수 (EA) : 68"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELO4322",
+        "description": "<입력 정보 검증 결과>\n이상 없음\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 200.0\nlength(mm) : 8757.74\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7018.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7418.0\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 23194.73\n총 elbow 수 (EA) : 28"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELO4321",
+        "description": "<입력 정보 검증 결과>\n이상 없음\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 200.0\nlength(mm) : 7607.74\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6175.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6618.0\nElbow(EA) : 5\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 20401.73\n총 elbow 수 (EA) : 23"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP4232",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nCABINET - (128750.0, 79411.2, 21550.0)\nCABINET - (128750.0, 79643.8, 21800.0)\n\n<전처리>\n진공 설비 POC 충돌 대상 : EAP4232 - C EAP4232 - A EAP4232 - B \n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4985.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6398.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5717.0\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7011.13\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 40.0\nlength(mm) : 6404.99\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 75.0\nlength(mm) : 9081.0\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 75.0\nlength(mm) : 9839.0\nElbow(EA) : 13\n\n[CABINET]\nSize(mm) : 75.0\nlength(mm) : 10718.99\nElbow(EA) : 16\n\n[Total]\nFrom To 수 : 8\n총 배관 길이 (mm) : 60157.09\n총 elbow 수 (EA) : 75"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP4230",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nCABINET - (126770.0, 92670.0, 9570.0)\nCABINET - (127137.5, 92870.0, 9570.0)\nCABINET - (128750.0, 93750.0, 21800.0)\nCABINET - (128750.0, 94067.4, 21550.0)\n\n<전처리>\n진공 설비 POC 충돌 대상 : EAP4230 - C EAP4230 - A EAP4230 - B \n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4686.0\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6398.99\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5967.0\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6861.13\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 40.0\nlength(mm) : 6404.99\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 75.0\nlength(mm) : 10790.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 75.0\nlength(mm) : 9849.0\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 75.0\nlength(mm) : 10754.0\nElbow(EA) : 12\n\n[Total]\nFrom To 수 : 8\n총 배관 길이 (mm) : 61712.1\n총 elbow 수 (EA) : 64"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EPA4313",
+        "description": "<입력 정보 검증 결과>\n이상 없음\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 8456.99\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 8177.99\nElbow(EA) : 13\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 16634.98\n총 elbow 수 (EA) : 24"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EPA4205",
+        "description": "<입력 정보 검증 결과>\n이상 없음\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 11890.99\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 13809.99\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 25700.98\n총 elbow 수 (EA) : 20"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EPA4206",
+        "description": "<입력 정보 검증 결과>\n이상 없음\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 12035.99\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 12340.99\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 24376.98\n총 elbow 수 (EA) : 19"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EPA4207",
+        "description": "<입력 정보 검증 결과>\n이상 없음\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 9989.99\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 9918.99\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 19908.98\n총 elbow 수 (EA) : 20"
+    },
+    {
+        "state": "WARNING",
+        "equip": "WTL4305",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139572.0, 88956.8, 10950.0)\nACID - (140135.0, 89206.8, 10950.0)\nACID - (139265.0, 89456.8, 10950.0)\nACID - (139623.4, 90402.8, 10950.0)\nACID - (140185.0, 90552.8, 10950.0)\nACID - (150090.0, 86656.8, 10950.0)\nACID - (150603.3, 87106.8, 10950.0)\nACID - (150090.0, 87356.8, 10950.0)\nACID - (150040.0, 89902.8, 10950.0)\nACID - (150551.7, 90052.8, 10950.0)\nACID - (150985.0, 91452.8, 10361.6)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6492.99\nElbow(EA) : 7\n\n[HEAT]\nSize(mm) : 50.0\nlength(mm) : 6534.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9307.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8666.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8551.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9289.0\nElbow(EA) : 15\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 10028.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 10402.0\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9309.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 8912.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 10234.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 10548.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9441.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 11185.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 11847.99\nElbow(EA) : 17\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 13006.0\nElbow(EA) : 8\n\n[Total]\nFrom To 수 : 16\n총 배관 길이 (mm) : 153757.93000000002\n총 elbow 수 (EA) : 145"
+    },
+    {
+        "state": "WARNING",
+        "equip": "WTN4334",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (140135.0, 91046.8, 10950.0)\nACID - (140135.0, 92196.8, 10950.0)\nACID - (139572.0, 92446.8, 10950.0)\nACID - (140185.0, 92695.0, 10950.0)\nACID - (139623.4, 92845.0, 10950.0)\nACID - (140185.0, 92995.0, 10950.0)\nACID - (150090.0, 90296.8, 10950.0)\nACID - (150603.3, 90546.8, 10950.0)\nACID - (150090.0, 90796.8, 10950.0)\nACID - (150603.3, 91046.8, 10950.0)\nACID - (150040.0, 92695.0, 10950.0)\nACID - (150551.7, 92845.0, 10950.0)\nACID - (150040.0, 92995.0, 10950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6179.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8644.0\nElbow(EA) : 9\n\n[HEAT]\nSize(mm) : 50.0\nlength(mm) : 6767.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8389.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9367.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9553.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 10139.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9427.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 10628.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 10565.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 10214.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 11332.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 11571.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 11826.99\nElbow(EA) : 16\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 12050.0\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 12774.99\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 16\n총 배관 길이 (mm) : 159431.93\n총 elbow 수 (EA) : 133"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4228",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139336.1, 58700.0, 10950.0)\nACID - (139827.9, 58991.5, 10950.0)\nACID - (139981.4, 59978.3, 10950.0)\nACID - (139240.0, 60325.8, 10950.0)\nACID - (139827.9, 60555.2, 10950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4189.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4264.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4515.0\nElbow(EA) : 7\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 5607.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4764.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4181.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5983.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7186.0\nElbow(EA) : 14\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6701.99\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 47391.979999999996\n총 elbow 수 (EA) : 67"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4313",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139572.0, 62403.2, 10950.0)\nACID - (139981.4, 62689.5, 10950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4515.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4339.0\nElbow(EA) : 8\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 6407.99\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5150.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5590.99\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7936.0\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5944.99\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 11477.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 14946.99\nElbow(EA) : 13\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 66308.95\n총 elbow 수 (EA) : 75"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO4333",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139240.0, 63302.9, 10950.0)\nACID - (139802.2, 63503.2, 10950.0)\nACID - (139240.0, 63703.2, 10950.0)\nACID - (139802.2, 63903.2, 10950.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7237.99\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7010.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6318.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7202.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7769.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7923.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8374.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8191.99\nElbow(EA) : 12\n\n[Total]\nFrom To 수 : 8\n총 배관 길이 (mm) : 60026.969999999994\n총 elbow 수 (EA) : 67"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4311",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139802.2, 69629.3, 10950.0)\nACID - (150985.0, 70365.3, 10155.0)\nACID - (150985.0, 70701.7, 10618.8)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4189.0\nElbow(EA) : 7\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 6007.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4764.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4867.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6701.99\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8136.0\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 14547.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 16253.99\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 17822.99\nElbow(EA) : 15\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 83289.95999999999\n총 elbow 수 (EA) : 85"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4230",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150090.0, 73682.4, 10950.0)\nACID - (150603.3, 74018.7, 10950.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5450.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6835.33\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6170.0\nElbow(EA) : 4\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 7893.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6650.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6858.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7258.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6631.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 11187.0\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 64934.31\n총 elbow 수 (EA) : 60"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4310",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139240.0, 74010.3, 10950.0)\nACID - (139827.9, 74246.3, 10950.0)\nACID - (139265.0, 74582.7, 10950.0)\nCABINET - (138350.0, 74875.6, 21550.0)\nCABINET - (138350.0, 75113.6, 21850.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4083.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 3864.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5226.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4755.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4764.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6102.0\nElbow(EA) : 6\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 6475.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5807.33\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7236.0\nElbow(EA) : 12\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 48314.31\n총 elbow 수 (EA) : 61"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4309",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139240.0, 77931.0, 10950.0)\nACID - (139827.9, 78167.0, 10950.0)\nACID - (139265.0, 78503.3, 10950.0)\nACID - (139827.9, 78814.6, 10950.0)\nACID - (139981.4, 79540.1, 10950.0)\nACID - (139240.0, 79837.7, 10950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4083.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4239.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4483.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4426.99\nElbow(EA) : 2\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 5207.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4755.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4764.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8185.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 11927.99\nElbow(EA) : 6\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 52072.95999999999\n총 elbow 수 (EA) : 49"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4308",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139265.0, 83271.2, 10950.0)\nACID - (139802.2, 83518.7, 10950.0)\nACID - (150985.0, 83095.6, 10155.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4283.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4426.99\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4826.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4566.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7902.0\nElbow(EA) : 12\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 7475.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5698.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8936.0\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 17022.99\nElbow(EA) : 13\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 65138.95\n총 elbow 수 (EA) : 70"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4321",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (140032.6, 82878.6, 10950.0)\nACID - (140260.0, 82431.1, 10130.0)\nCABINET - (137650.0, 82772.5, 21800.0)\nACID - (150090.0, 82904.2, 10950.0)\nACID - (150090.0, 83465.4, 10950.0)\nACID - (150603.3, 84101.7, 10950.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6635.33\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7095.0\nElbow(EA) : 10\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9543.99\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6950.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6858.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6631.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 11587.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 12654.99\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 14859.99\nElbow(EA) : 14\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 82816.29000000001\n총 elbow 수 (EA) : 78"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4307",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (139240.0, 85693.0, 10950.0)\nACID - (139827.9, 85929.0, 10950.0)\nACID - (139572.0, 86426.6, 10950.0)\nACID - (139802.2, 87599.7, 10950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4883.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4865.0\nElbow(EA) : 9\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9038.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5935.0\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4366.0\nElbow(EA) : 4\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9158.0\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9284.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 14642.0\nElbow(EA) : 15\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 16718.0\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 78889.0\n총 elbow 수 (EA) : 82"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4231",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150577.5, 68580.6, 10950.0)\nACID - (150090.0, 69128.1, 10950.0)\nACID - (150603.3, 69565.0, 10950.0)\nACID - (150090.0, 69851.3, 10950.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4380.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6945.14\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6745.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6750.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7083.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7209.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7512.99\nElbow(EA) : 7\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 10094.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 12655.99\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 69376.11\n총 elbow 수 (EA) : 67"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4234",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150985.0, 58773.0, 10618.8)\nACID - (150985.0, 59109.3, 10155.0)\nACID - (150985.0, 61500.0, 10850.0)\nCABINET - (147200.0, 59514.0, 21550.0)\nCABINET - (147200.0, 59714.0, 21800.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6457.33\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6363.99\nElbow(EA) : 9\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 8710.15\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6631.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9126.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9284.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 11550.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 14261.99\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 16382.99\nElbow(EA) : 14\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 88770.42\n총 elbow 수 (EA) : 83"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4236",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150291.2, 78543.9, 10950.0)\nACID - (150090.0, 79880.7, 10950.0)\nACID - (150577.5, 80328.2, 10950.0)\nACID - (150985.0, 79705.1, 10773.4)\nCABINET - (147200.0, 79374.8, 21800.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 3891.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4540.0\nElbow(EA) : 6\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 10484.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5316.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4852.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5234.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6334.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8875.0\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 16791.0\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 66317.98999999999\n총 elbow 수 (EA) : 57"
+    },
+    {
+        "state": "WARNING",
+        "equip": "WTN4332",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150860.0, 87608.0, 10950.0)\nACID - (150346.6, 87858.0, 10950.0)\nACID - (150860.0, 88458.0, 10950.0)\nACID - (150346.6, 88708.0, 10950.0)\nACID - (150860.0, 88958.0, 10950.0)\nACID - (150346.6, 89208.0, 10950.0)\nACID - (150885.0, 89466.0, 10950.0)\nACID - (150398.2, 91545.0, 10950.0)\nACID - (150910.0, 91695.0, 10950.0)\nACID - (150398.2, 92095.0, 10950.0)\nACID - (150910.0, 92245.0, 10950.0)\nACID - (150398.2, 92395.0, 10950.0)\nACID - (150910.0, 92545.0, 10950.0)\nACID - (150985.0, 91058.0, 10825.0)\nACID - (150985.0, 91658.0, 10825.0)\n\n<전처리>\n이상 없음\n\n[HEAT]\nSize(mm) : 50.0\nlength(mm) : 6424.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7368.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9139.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 9858.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 10928.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9618.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 10025.99\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 10583.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 11843.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 11453.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 11797.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 12563.0\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 12715.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 12375.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 12591.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 14289.0\nElbow(EA) : 20\n\n[Total]\nFrom To 수 : 16\n총 배관 길이 (mm) : 173574.94\n총 elbow 수 (EA) : 154"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4241",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150603.3, 58818.8, 10950.0)\nACID - (150090.0, 59180.1, 10950.0)\nACID - (150603.3, 59455.7, 10950.0)\nACID - (150985.0, 59350.0, 10850.0)\nACID - (150985.0, 67900.0, 10361.1)\n\n<전처리>\n이상 없음\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9168.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4802.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4144.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4252.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4339.0\nElbow(EA) : 2\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6491.16\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6762.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9740.710000000001\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 15144.99\nElbow(EA) : 16\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 64844.85\n총 elbow 수 (EA) : 70"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4233",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150090.0, 61889.3, 10950.0)\nACID - (150603.3, 62175.6, 10950.0)\nACID - (150065.0, 62411.6, 10950.0)\nACID - (150985.0, 61728.1, 10155.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6220.0\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5585.33\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6769.0\nElbow(EA) : 5\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 6693.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7200.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6683.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7458.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7113.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8884.99\nElbow(EA) : 8\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 62608.299999999996\n총 elbow 수 (EA) : 56"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4240",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150603.3, 62654.0, 10950.0)\nACID - (150985.0, 62281.6, 10592.8)\nACID - (150985.0, 62517.7, 10155.0)\n\n<전처리>\n이상 없음\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9168.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 3891.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4602.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5316.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5002.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7641.16\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5917.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6734.0\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9025.0\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 57296.16\n총 elbow 수 (EA) : 65"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4232",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150985.0, 66197.6, 10618.8)\nACID - (150985.0, 66534.0, 10155.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4180.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7235.33\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6570.0\nElbow(EA) : 6\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 7893.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6858.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7031.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8726.0\nElbow(EA) : 15\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9284.99\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8790.0\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 66570.29999999999\n총 elbow 수 (EA) : 78"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4239",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150065.0, 66316.6, 10950.0)\nACID - (150603.3, 66552.6, 10950.0)\nACID - (150090.0, 66888.9, 10950.0)\nACID - (150065.0, 68223.3, 10950.0)\nACID - (150985.0, 67600.2, 10773.4)\n\n<전처리>\n이상 없음\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 8368.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4291.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4802.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4307.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4339.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4340.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5716.0\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8248.28\nElbow(EA) : 14\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9340.710000000001\nElbow(EA) : 8\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 53751.99\n총 elbow 수 (EA) : 53"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4238",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150577.5, 70351.6, 10950.0)\nACID - (150090.0, 70587.6, 10950.0)\nACID - (150603.3, 70923.9, 10950.0)\nACID - (150090.0, 71485.2, 10950.0)\nACID - (150603.3, 71910.7, 10950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4194.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 3944.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4402.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4102.0\nElbow(EA) : 4\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 10884.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4853.0\nElbow(EA) : 4\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7141.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6378.99\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8288.52\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 54188.5\n총 elbow 수 (EA) : 52"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4237",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150065.0, 74386.6, 10950.0)\nACID - (150603.3, 74622.6, 10950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 3840.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4002.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4707.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4339.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4340.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5316.0\nElbow(EA) : 3\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9286.99\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8091.0\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9725.0\nElbow(EA) : 13\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 53646.99\n총 elbow 수 (EA) : 51"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4229",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150577.5, 78313.9, 10950.0)\nACID - (150603.3, 78811.4, 10950.0)\nACID - (150090.0, 79087.0, 10950.0)\nACID - (150065.0, 80670.6, 10950.0)\nACID - (150985.0, 80148.2, 10155.0)\nCABINET - (147200.0, 79155.3, 21550.0)\nCABINET - (147200.0, 79667.3, 21550.0)\n\n<전처리>\n이상 없음\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4180.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5435.33\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6519.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6695.0\nElbow(EA) : 4\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 7093.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7183.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6808.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7613.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8790.0\nElbow(EA) : 3\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 60318.31\n총 elbow 수 (EA) : 62"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4225",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150603.3, 82628.8, 10950.0)\nACID - (150603.3, 83190.1, 10950.0)\nACID - (150065.0, 84363.2, 10950.0)\nACID - (150985.0, 82456.5, 10130.0)\nACID - (150985.0, 82692.5, 10773.4)\nCABINET - (147450.0, 84021.8, 21950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4802.0\nElbow(EA) : 5\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 13163.0\nElbow(EA) : 15\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4856.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4339.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5062.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5716.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6378.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 11704.460000000001\nElbow(EA) : 16\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9302.050000000001\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 9\n총 배관 길이 (mm) : 65324.49\n총 elbow 수 (EA) : 72"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO4307",
+        "description": "<입력 정보 검증 결과>\n이격거리 100 이하 대상\nACID - (150577.5, 86382.0, 10950.0)\n\n<전처리>\n이상 없음\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5442.99\nElbow(EA) : 4\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7340.99\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9091.99\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9151.47\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9973.99\nElbow(EA) : 8\n\n[Total]\nFrom To 수 : 5\n총 배관 길이 (mm) : 41001.43\n총 elbow 수 (EA) : 33"
+    }
+]

@@ -1,0 +1,280 @@
+@font-face {font-family: 'Noto Sans KR';font-style: normal;font-weight: 100;src: url(/fonts/NotoSansKR-Thin.ttf) format('opentype');}
+@font-face {font-family: 'Noto Sans KR';font-style: normal;font-weight: 200;src: url(/fonts/NotoSansKR-ExtraLight.ttf) format('opentype');}
+@font-face {font-family: 'Noto Sans KR';font-style: normal;font-weight: 300;src: url(/fonts/NotoSansKR-Light.ttf) format('opentype');}
+@font-face {font-family: 'Noto Sans KR';font-style: normal;font-weight: 400;src: url(/fonts/NotoSansKR-Regular.ttf) format('opentype');}
+@font-face {font-family: 'Noto Sans KR';font-style: normal;font-weight: 500;src: url(/fonts/NotoSansKR-Medium.ttf) format('opentype');}
+@font-face {font-family: 'Noto Sans KR';font-style: normal;font-weight: 600;src: url(/fonts/NotoSansKR-SemiBold.ttf) format('opentype');}
+@font-face {font-family: 'Noto Sans KR';font-style: normal;font-weight: 700;src: url(/fonts/NotoSansKR-Bold.ttf) format('opentype');}
+@font-face {font-family: 'Noto Sans KR';font-style: normal;font-weight: 800;src: url(/fonts/NotoSansKR-ExtraBold.ttf) format('opentype');}
+@font-face {font-family: 'Noto Sans KR';font-style: normal;font-weight: 900;src: url(/fonts/NotoSansKR-Black.ttf) format('opentype');}
+
+:root {
+    --slz-light-gray: rgb(241, 241, 241);
+    --slz-gray: rgb(217 218 218);
+    --slz-dark-gray: rgb(188, 188, 188);
+    --slz-light-green: rgb(134 198 62);
+    --slz-green: rgb(87 188 79);
+    --slz-dark-green: rgb(24 174 87);
+    --slz-light-blue: rgb(21 136 198);
+    --slz-blue: rgb(31 103 179);
+    --slz-dark-blue: rgb(4 88 163);
+    --table-border-color: #ccc;
+    --table-scroll-track: rgb(217 217 217);
+    --table-scroll-thumb: rgb(134 134 134);
+    --table-header-bg: white;
+    --table-cell-padding: 4px;
+    --table-header-height: 36px;
+    --table-row-height: 28px;
+}
+
+body {
+    font-size: 12px;
+    font-family: Noto Sans KR, sans-serif;
+    margin: 10px;
+    overflow: hidden;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+/* Table container for scroll and padding */
+.table-container {
+    background: white;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.table-container.scrollable {
+    overflow-y: auto;
+    max-height: 400px;
+}
+
+/* Loading and empty states */
+.loading-state, .empty-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 180px;
+    color: #888;
+    font-size: 14px;
+}
+
+.spinner {
+    width: 32px;
+    height: 32px;
+    border: 4px solid var(--slz-light-gray);
+    border-top: 4px solid var(--slz-blue);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    100% { transform: rotate(360deg); }
+}
+
+/* Table content cell styling */
+.content-cell {
+    text-align: left;
+    padding: 2px 4px;
+}
+
+.content-text {
+    font-weight: 500;
+    color: #222;
+    margin-bottom: 2px;
+    word-break: break-all;
+    white-space: pre-line;
+}
+
+.content-details {
+    font-size: 11px;
+    color: #666;
+    margin-top: 2px;
+    word-break: break-all;
+    white-space: pre-line;
+}
+
+
+th {
+    font-weight: bold;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+tr {
+    height: 27px;
+}
+
+td {
+    padding: 2px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+span {
+    display: inline-block;
+    width: 25px;
+}
+
+button {
+    font-family: Noto Sans KR, sans-serif;
+    font-size: 12px;
+    width: 68px;
+    height: 24px;
+    margin: 4px;
+    border: none;
+    background-color: var(--slz-blue);
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+
+button:hover {
+    background-color: var(--slz-light-blue);
+    cursor: pointer;
+}
+
+button:active {
+    background-color: var(--slz-dark-blue);
+}
+
+button:disabled {
+    background-color: var(--slz-light-gray);
+    color: #8d8d8d;
+}
+
+.green-btn {
+    background-color: var(--slz-green);
+}
+
+.green-btn:hover {
+    background-color: var(--slz-light-green);
+}
+
+.green-btn:active {
+    background-color: var(--slz-dark-green);
+}
+
+.back-btn {
+    background-color: var(--slz-gray);
+    color:black;
+}
+
+.back-btn:hover {
+    background-color: var(--slz-light-gray);
+}
+
+.back-btn:active {
+    background-color: var(--slz-dark-gray);
+}
+
+.close-btn {
+    background-color: rgb(203, 0, 0);
+}
+
+.close-btn:hover {
+    background-color: rgb(226, 0, 0);
+}
+
+.close-btn:active {
+    background-color: rgb(173, 0, 0);
+}
+
+input {
+    font-family: Noto Sans KR, sans-serif;
+    font-size: 12px;
+}
+
+input[type="text"],
+input[type="number"] {
+    appearance: textfield;
+    -moz-appearance: textfield;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="file"]{
+    display: none;
+}
+
+/* Full-width table with enhanced styling */
+.full-width-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 12px;
+}
+
+/* Sticky table header */
+.full-width-table thead {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--table-header-bg);
+}
+
+.full-width-table thead::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: var(--table-border-color);
+}
+
+/* Enhanced table header cells */
+.full-width-table th {
+    font-weight: bold;
+    padding: var(--table-cell-padding);
+    border: 1px solid var(--table-border-color);
+    border-bottom: 5px solid var(--table-scroll-thumb);
+    background: var(--table-header-bg);
+    text-align: center;
+    height: var(--table-header-height);
+    box-sizing: border-box;
+    user-select: none;
+    vertical-align: middle;
+}
+
+/* Table rows with enhanced styling */
+.full-width-table tr {
+    height: var(--table-row-height);
+}
+
+.full-width-table tbody tr:nth-child(even) {
+    background-color: rgba(241, 241, 241, 0.3);
+}
+
+/* Enhanced table data cells */
+.full-width-table td {
+    padding: var(--table-cell-padding);
+    text-align: center;
+    border: 1px solid var(--table-border-color);
+    vertical-align: middle;
+    box-sizing: border-box;
+}
+
+.text-field {
+    width: calc(100% - 8px);
+    text-align: left;
+}
+
+.page-title {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    padding: 5px 10px 5px 10px;
+    background-color: var(--slz-light-gray);
+    margin-bottom: 10px;
+    border-radius: 5px;
+}

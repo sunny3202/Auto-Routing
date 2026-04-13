@@ -1,0 +1,8 @@
+.InputTable {
+    width: 100%;
+}
+
+.InputTable th,
+.InputTable td {
+    border: none;
+}

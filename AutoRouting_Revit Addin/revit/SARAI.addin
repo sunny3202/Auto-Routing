@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+ <AddIn Type="Application">
+       <Name>SARAI</Name>
+       <FullClassName>SARAI.App</FullClassName>
+       <Text>SARAI Text</Text>
+       <Description>SARAI Addin</Description>
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+
+	   <Assembly>SARAI\SARAI.dll</Assembly>
+
+	 <AddInId>3e2dc146-d5b3-4689-bbbe-407f504f2c3e</AddInId>
+    <VendorId>SLZ Inc.</VendorId>
+    <VendorDescription>SLZ Inc.</VendorDescription>
+ </AddIn>
+</RevitAddIns>

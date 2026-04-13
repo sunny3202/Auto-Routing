@@ -1,0 +1,222 @@
+[
+    {
+        "state": "WARNING",
+        "equip": "ELP4240",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 151 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4231",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 194 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA4205",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 371 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4225",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 214 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4241",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 339 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4235",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 272 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4239",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 219 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA4206",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 518 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4228",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 394 \n"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELP4226",
+        "description": "<전처리 결과>\n이상 없음\n\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 331 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO4333",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 454 \n"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELP4304",
+        "description": "<전처리 결과>\n이상 없음\n\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 285 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELO4322",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 6 \nMiddle Foreline 연결 좌표 수 : 6 \nPump 연결 좌표 수 : 6 \n범위 내 장애물 수 : 354 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4234",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 441 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESO4307",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 6 \nMiddle Foreline 연결 좌표 수 : 6 \nPump 연결 좌표 수 : 6 \n범위 내 장애물 수 : 957 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EHP4206",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 987 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4307",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 188 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO4307",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 245 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EHP4207",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 791 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4233",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 253 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP4231",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 6 \nMiddle Foreline 연결 좌표 수 : 6 \nPump 연결 좌표 수 : 6 \n범위 내 장애물 수 : 704 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELO4321",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 6 \nMiddle Foreline 연결 좌표 수 : 6 \nPump 연결 좌표 수 : 6 \n범위 내 장애물 수 : 374 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA4207",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 257 \n"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELP4321",
+        "description": "<전처리 결과>\n이상 없음\n\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 386 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP4232",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 6 \nMiddle Foreline 연결 좌표 수 : 6 \nPump 연결 좌표 수 : 6 \n범위 내 장애물 수 : 785 \n"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELP4301",
+        "description": "<전처리 결과>\n이상 없음\n\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 268 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP4230",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 6 \nMiddle Foreline 연결 좌표 수 : 6 \nPump 연결 좌표 수 : 6 \n범위 내 장애물 수 : 865 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA4313",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 682 \n"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELP4227",
+        "description": "<전처리 결과>\n이상 없음\n\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 369 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELO4323",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 6 \nMiddle Foreline 연결 좌표 수 : 6 \nPump 연결 좌표 수 : 6 \n범위 내 장애물 수 : 320 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4238",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 206 \n"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELP4229",
+        "description": "<전처리 결과>\n이상 없음\n\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 240 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4310",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 194 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4237",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 164 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4313",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 188 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4308",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 268 \n"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELP4306",
+        "description": "<전처리 결과>\n이상 없음\n\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 270 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4309",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 208 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESO4306",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 6 \nMiddle Foreline 연결 좌표 수 : 6 \nPump 연결 좌표 수 : 6 \n범위 내 장애물 수 : 865 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4232",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 203 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4311",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 278 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4312",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 194 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4236",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 203 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELP4230",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 280 \n"
+    }
+]

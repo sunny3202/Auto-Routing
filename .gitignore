@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.log
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.npm/
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.yarn/
+
+# Visual Studio / IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+*.db
+*.db-shm
+*.db-wal
+
+# Build / binaries
+bin/
+obj/
+Debug/
+Release/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.zip
+*.msi
+*.log
+*.tmp
+*.temp
+
+# Revit / .NET package cache
+packages/
+*.nupkg
+
+# Local configuration
+.claude/
+
+# Test output
+test_output/
+
+# OS files
+.DS_Store
+Thumbs.db

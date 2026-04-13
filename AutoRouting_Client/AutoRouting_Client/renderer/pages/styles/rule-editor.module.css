@@ -1,0 +1,69 @@
+.ValidationMsg {
+    color: red;
+    font-size: 10px;
+    margin-top: 5px;
+    visibility: hidden;
+}
+
+.TdLabel {
+    border: none;
+}
+
+.TdLabelInput {
+    border: none;
+    width: 410px;
+}
+
+.TdPropertyName {
+    width: 146px;
+    text-align: left;
+    padding: 0 5px 0 5px;
+}
+
+.TdParameterInput {
+    width: 280px;
+    text-align: right;
+
+}
+.TdParameterInput.Button{
+    width: 300px;
+
+}
+
+.RuleContainer {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    margin: 0px 0 00px 0;
+}
+
+.CardContainer {
+    margin: 00px 0 10px 0;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    height: 250px;
+}
+
+.Card {
+    margin: 10px 0 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.CardTitle {
+    padding: 5px;
+    font-weight: bold;
+    background-color: #e9e9e9;
+    border-bottom: 1px solid #ccc;
+    height: 15px;
+}
+
+.CardContent {
+    padding: 10px;
+}
+
+.NumberInput {
+    width:60px;
+}

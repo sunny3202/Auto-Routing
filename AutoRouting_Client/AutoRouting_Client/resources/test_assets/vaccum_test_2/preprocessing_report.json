@@ -1,0 +1,227 @@
+[
+    {
+        "state": "WARNING",
+        "equip": "ELD3507",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 579 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3526",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 834 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO3568",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 348 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETP3501",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 293 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3523",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 812 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3516",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 322 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELD3503",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 438 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETP3505",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 374 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3528",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 412 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3522",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 454 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3527",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 518 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3518",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 706 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO3569",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 252 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3529",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 900 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3525",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 418 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3514",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 342 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3504",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 341 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3520",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 328 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELO3511",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 229 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELD3504",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 448 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3506",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 251 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3502",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 446 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELD3505",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 352 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EMA3504",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 2 \nMiddle Foreline 연결 좌표 수 : 2 \nPump 연결 좌표 수 : 2 \n범위 내 장애물 수 : 181 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA3511",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 473 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELO3510",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 166 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3521",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 578 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3515",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 612 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3513",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 326 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3524",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 488 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO35N2",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 269 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELD3502",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n- FSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 549 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ETO35N1",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 255 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3503",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 445 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3505",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 176 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EAP3519",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 242 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELD3506",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 325 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EMA3503",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 2 \nMiddle Foreline 연결 좌표 수 : 2 \nPump 연결 좌표 수 : 2 \n범위 내 장애물 수 : 141 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELE3509",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 390 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ESP3501",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 309 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "ELO3509",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 146 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA3509",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 446 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EMA3502",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 2 \nMiddle Foreline 연결 좌표 수 : 2 \nPump 연결 좌표 수 : 2 \n범위 내 장애물 수 : 161 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA3510",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 242 \n"
+    },
+    {
+        "state": "WARNING",
+        "equip": "EPA3530",
+        "description": "<전처리 결과>\n[WARN04] 전처리 실패\n대상규칙:\n- FSF 구간 직선 연결 검증\n- CSF 구간 직선 연결 검증\n<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 192 \n"
+    }
+]

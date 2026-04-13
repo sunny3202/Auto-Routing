@@ -1,0 +1,27 @@
+[
+    {
+        "area": "FSF",
+        "stack_list": ["Centering", "Super Bellows", "DC Clamp Assembly", "MF Flange", "pipe_200", "MF Flange", "DC Clamp Assembly","MF Flange", "pipe_1700", "MF Flange", "DC Clamp Assembly", "Middle Foreline", "DC Clamp Assembly","MF Flange", "pipe_2135", "MF Flange", "DC Clamp Assembly","MF Flange", "pipe_2135", "MF Flange", "DC Clamp Assembly", "MF Flange"
+        ]
+    },
+    {
+        "area": "CSF_40_125",
+        "stack_list": ["NRC Clamp", "KF Flange", "pipe_150", "KF Flange", "NRC Clamp", "Dual Bellows", "NRC Clamp", "KF Flange", "Reducer_40_100", "Reducer_100_125"
+        ]
+    },
+    {
+        "area": "CSF_50_125",
+        "stack_list": ["NRC Clamp", "KF Flange", "pipe_150","KF Flange", "NRC Clamp", "Dual Bellows", "NRC Clamp", "KF Flange", "Reducer_50_100", "Reducer_100_125"
+        ]
+    },
+    {
+        "area": "CSF_80_125",
+        "stack_list": ["DC Clamp Assembly", "MF Flange", "pipe_150","MF Flange", "DC Clamp Assembly", "Super Bellows", "DC Clamp Assembly", "MF Flange", "Reducer_80_125"
+        ]
+    },
+    {
+        "area": "CSF_100_125",
+        "stack_list": ["DC Clamp Assembly", "MF Flange", "pipe_150","MF Flange", "DC Clamp Assembly", "Super Bellows", "DC Clamp Assembly", "MF Flange", "Reducer_100_125"
+        ]
+    }
+]

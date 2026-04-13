@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SARAI", "SARAI.csproj", "{D118F0E0-4E15-4C61-BE39-CDC5247AC49B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SARAI-Setup", "..\SARAI-Setup\SARAI-Setup.vdproj", "{0AB22823-6807-58F1-72C4-F01C85C90E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D118F0E0-4E15-4C61-BE39-CDC5247AC49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D118F0E0-4E15-4C61-BE39-CDC5247AC49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D118F0E0-4E15-4C61-BE39-CDC5247AC49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D118F0E0-4E15-4C61-BE39-CDC5247AC49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB22823-6807-58F1-72C4-F01C85C90E1F}.Debug|Any CPU.ActiveCfg = Debug
+		{0AB22823-6807-58F1-72C4-F01C85C90E1F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1EF0295-5E1D-48A6-A008-E8E5059DD32B}
+	EndGlobalSection
+EndGlobal

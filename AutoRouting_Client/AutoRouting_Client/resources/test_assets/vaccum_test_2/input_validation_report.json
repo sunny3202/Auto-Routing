@@ -1,0 +1,227 @@
+[
+    {
+        "equip": "ELD3507",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 579 \n"
+    },
+    {
+        "equip": "EAP3526",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 834 \n"
+    },
+    {
+        "equip": "ETO3568",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 348 \n"
+    },
+    {
+        "equip": "ETP3501",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 293 \n"
+    },
+    {
+        "equip": "EAP3523",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 812 \n"
+    },
+    {
+        "equip": "EAP3516",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 322 \n"
+    },
+    {
+        "equip": "ELD3503",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 438 \n"
+    },
+    {
+        "equip": "ETP3505",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 374 \n"
+    },
+    {
+        "equip": "EAP3528",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 412 \n"
+    },
+    {
+        "equip": "EAP3522",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 454 \n"
+    },
+    {
+        "equip": "EAP3527",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 518 \n"
+    },
+    {
+        "equip": "EAP3518",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 706 \n"
+    },
+    {
+        "equip": "ETO3569",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 252 \n"
+    },
+    {
+        "equip": "EAP3529",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 900 \n"
+    },
+    {
+        "equip": "EAP3525",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 418 \n"
+    },
+    {
+        "equip": "EAP3514",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 342 \n"
+    },
+    {
+        "equip": "ESP3504",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 341 \n"
+    },
+    {
+        "equip": "EAP3520",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 328 \n"
+    },
+    {
+        "equip": "ELO3511",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 229 \n"
+    },
+    {
+        "equip": "ELD3504",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 448 \n"
+    },
+    {
+        "equip": "ESP3506",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 251 \n"
+    },
+    {
+        "equip": "ESP3502",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 446 \n"
+    },
+    {
+        "equip": "ELD3505",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 352 \n"
+    },
+    {
+        "equip": "EMA3504",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 2 \nMiddle Foreline 연결 좌표 수 : 2 \nPump 연결 좌표 수 : 2 \n범위 내 장애물 수 : 181 \n"
+    },
+    {
+        "equip": "EPA3511",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 473 \n"
+    },
+    {
+        "equip": "ELO3510",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 166 \n"
+    },
+    {
+        "equip": "EAP3521",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 578 \n"
+    },
+    {
+        "equip": "EAP3515",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 612 \n"
+    },
+    {
+        "equip": "EAP3513",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 326 \n"
+    },
+    {
+        "equip": "EAP3524",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 488 \n"
+    },
+    {
+        "equip": "ETO35N2",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 269 \n"
+    },
+    {
+        "equip": "ELD3502",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 549 \n"
+    },
+    {
+        "equip": "ETO35N1",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 255 \n"
+    },
+    {
+        "equip": "ESP3503",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 445 \n"
+    },
+    {
+        "equip": "ESP3505",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 176 \n"
+    },
+    {
+        "equip": "EAP3519",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 242 \n"
+    },
+    {
+        "equip": "ELD3506",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 4 \nMiddle Foreline 연결 좌표 수 : 4 \nPump 연결 좌표 수 : 4 \n범위 내 장애물 수 : 325 \n"
+    },
+    {
+        "equip": "EMA3503",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 2 \nMiddle Foreline 연결 좌표 수 : 2 \nPump 연결 좌표 수 : 2 \n범위 내 장애물 수 : 141 \n"
+    },
+    {
+        "equip": "ELE3509",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 390 \n"
+    },
+    {
+        "equip": "ESP3501",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 309 \n"
+    },
+    {
+        "equip": "ELO3509",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 146 \n"
+    },
+    {
+        "equip": "EPA3509",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 446 \n"
+    },
+    {
+        "equip": "EMA3502",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 2 \nMiddle Foreline 연결 좌표 수 : 2 \nPump 연결 좌표 수 : 2 \n범위 내 장애물 수 : 161 \n"
+    },
+    {
+        "equip": "EPA3510",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 242 \n"
+    },
+    {
+        "equip": "EPA3530",
+        "state": "SUCCESS",
+        "description": "<입력 정보 검증 결과>\n장비 연결 좌표 수 : 3 \nMiddle Foreline 연결 좌표 수 : 3 \nPump 연결 좌표 수 : 3 \n범위 내 장애물 수 : 192 \n"
+    }
+]

@@ -1,0 +1,19 @@
+﻿<Window x:Class="SARAI.Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Phase 선택" Height="150" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Phase를 선택하세요:" Margin="0,0,0,5"/>
+        <ComboBox x:Name="PhaseComboBox" Grid.Row="1" Height="25" />
+
+        <Button Content="확인" Grid.Row="2" Height="30" Width="80" 
+                HorizontalAlignment="Right" Margin="0,10,0,0"
+                Click="ConfirmButton_Click"/>
+    </Grid>
+</Window>

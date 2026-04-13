@@ -1,0 +1,272 @@
+[
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3518",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 40.0\nlength(mm) : 4430.0\nElbow(EA) : 2\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6052.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9401.85\nElbow(EA) : 14\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7076.0\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8584.99\nElbow(EA) : 5\n\n[Total]\nFrom To 수 : 5\n총 배관 길이 (mm) : 35544.84\n총 elbow 수 (EA) : 36"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELD3507",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 8331.99\nElbow(EA) : 14\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6218.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6546.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6530.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6837.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6414.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8459.99\nElbow(EA) : 7\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9611.0\nElbow(EA) : 6\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 10586.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 11865.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 11997.99\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 93399.94\n총 elbow 수 (EA) : 89"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELE3509",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6112.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 4735.0\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7800.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5698.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 5650.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 6533.99\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 6\n총 배관 길이 (mm) : 36529.979999999996\n총 elbow 수 (EA) : 37"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELD3506",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7025.0\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5733.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6178.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7128.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7597.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7135.99\nElbow(EA) : 5\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 10261.0\nElbow(EA) : 9\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 10325.0\nElbow(EA) : 12\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 12903.99\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 11753.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 11997.99\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 98039.95\n총 elbow 수 (EA) : 97"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3516",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6136.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6053.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4677.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4827.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5499.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5777.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5969.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5814.99\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8290.99\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 150.0\nlength(mm) : 10220.0\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 63268.929999999986\n총 elbow 수 (EA) : 64"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3527",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4770.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5490.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5882.99\nElbow(EA) : 12\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6059.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6885.5\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7403.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7150.0\nElbow(EA) : 13\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7086.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 16048.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 17693.0\nElbow(EA) : 15\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 84471.45\n총 elbow 수 (EA) : 87"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3515",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5736.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5253.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4735.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4830.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5825.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5797.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5792.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7298.0\nElbow(EA) : 13\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8690.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6039.99\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 60001.92999999999\n총 elbow 수 (EA) : 70"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3526",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5378.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5352.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5865.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7275.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6825.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6702.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7137.99\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9908.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 16373.99\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 17754.99\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 88575.93000000001\n총 elbow 수 (EA) : 79"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3514",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4986.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4803.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4755.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5080.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5425.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5747.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6042.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7398.0\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8790.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6170.0\nElbow(EA) : 5\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 59201.939999999995\n총 elbow 수 (EA) : 66"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3513",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4936.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4453.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4706.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5030.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5025.99\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5697.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5830.99\nElbow(EA) : 4\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7890.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6170.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 11808.0\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 61549.94999999999\n총 elbow 수 (EA) : 49"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "WUD3501",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7443.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 9536.0\nElbow(EA) : 10\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 8266.99\nElbow(EA) : 6\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 25245.989999999998\n총 elbow 수 (EA) : 21"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3521",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4936.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4453.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5217.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5380.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5730.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6347.99\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6198.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7590.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6170.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14610.0\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 66635.95\n총 elbow 수 (EA) : 64"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3520",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4936.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6556.0\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4978.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7623.24\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6906.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7230.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8192.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8621.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14080.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14257.99\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 83382.21\n총 elbow 수 (EA) : 73"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3519",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5736.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 150.0\nlength(mm) : 5799.99\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6352.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8182.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 9819.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 9727.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14262.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14581.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14895.07\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14629.99\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 103989.00000000001\n총 elbow 수 (EA) : 80"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "WPY3502",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9799.99\nElbow(EA) : 11\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 8911.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 10677.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 10800.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9977.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 10661.99\nElbow(EA) : 17\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 11507.99\nElbow(EA) : 15\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 11574.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 11891.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 75.0\nlength(mm) : 12073.99\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 12608.0\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 12883.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 13717.99\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 75.0\nlength(mm) : 18444.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 19392.99\nElbow(EA) : 14\n\n[Total]\nFrom To 수 : 15\n총 배관 길이 (mm) : 184922.90999999997\n총 elbow 수 (EA) : 163"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "WPY3501",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6750.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6709.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6873.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6827.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7380.99\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8574.0\nElbow(EA) : 17\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8728.99\nElbow(EA) : 8\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 7601.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9087.99\nElbow(EA) : 23\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 9062.22\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 75.0\nlength(mm) : 8716.99\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 9619.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 75.0\nlength(mm) : 10369.99\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 10729.0\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 11651.0\nElbow(EA) : 15\n\n[Total]\nFrom To 수 : 15\n총 배관 길이 (mm) : 128683.14000000001\n총 elbow 수 (EA) : 172"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3528",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5770.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5735.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6502.99\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8303.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6437.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6665.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6858.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6425.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7585.49\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 17754.99\nElbow(EA) : 12\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 78040.43\n총 elbow 수 (EA) : 71"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELD3505",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8525.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5847.99\nElbow(EA) : 9\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 8315.99\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6828.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6178.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7009.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7285.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7790.0\nElbow(EA) : 11\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9361.0\nElbow(EA) : 8\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 10025.0\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 13880.0\nElbow(EA) : 21\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 91047.95\n총 elbow 수 (EA) : 109"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELD3504",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 4844.99\nElbow(EA) : 8\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 6416.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6448.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6678.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6178.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6312.0\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9545.0\nElbow(EA) : 9\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9461.0\nElbow(EA) : 9\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9575.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 13222.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 17562.0\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 96242.98\n총 elbow 수 (EA) : 88"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELD3503",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 4792.0\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5025.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6147.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6678.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6985.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6990.0\nElbow(EA) : 5\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9575.0\nElbow(EA) : 8\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9611.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 13622.0\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 14185.0\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 16522.99\nElbow(EA) : 8\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 100134.97\n총 elbow 수 (EA) : 87"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELD3502",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 3739.0\nElbow(EA) : 3\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 5616.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6328.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7028.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7336.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6312.0\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8745.0\nElbow(EA) : 8\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9361.0\nElbow(EA) : 8\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9675.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 13785.0\nElbow(EA) : 14\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 13972.99\nElbow(EA) : 14\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 91897.99\n총 elbow 수 (EA) : 94"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "WFF3503",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 8776.99\nElbow(EA) : 9\n\n[HEAT]\nSize(mm) : 75.0\nlength(mm) : 10699.99\nElbow(EA) : 12\n\n[HEAT]\nSize(mm) : 75.0\nlength(mm) : 11746.89\nElbow(EA) : 5\n\n[HEAT]\nSize(mm) : 40.0\nlength(mm) : 11957.99\nElbow(EA) : 8\n\n[HEAT]\nSize(mm) : 40.0\nlength(mm) : 12036.99\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 5\n총 배관 길이 (mm) : 55218.85\n총 elbow 수 (EA) : 43"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "WPE3501",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9060.99\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 1\n총 배관 길이 (mm) : 9060.99\n총 elbow 수 (EA) : 9"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "WPE3502",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 9060.99\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 1\n총 배관 길이 (mm) : 9060.99\n총 elbow 수 (EA) : 9"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "WDS35RA",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[HEAT]\nSize(mm) : 200.0\nlength(mm) : 10147.99\nElbow(EA) : 7\n\n[HEAT]\nSize(mm) : 200.0\nlength(mm) : 11264.0\nElbow(EA) : 12\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 21411.989999999998\n총 elbow 수 (EA) : 19"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EMA3503",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 6287.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 6488.0\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 40.0\nlength(mm) : 8052.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9002.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 10501.99\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 5\n총 배관 길이 (mm) : 40330.99\n총 elbow 수 (EA) : 24"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EPA3509",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 9726.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 11006.0\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 20732.0\n총 elbow 수 (EA) : 13"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EMA3502",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 6318.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 7464.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 40.0\nlength(mm) : 8021.99\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9452.0\nElbow(EA) : 14\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 10901.99\nElbow(EA) : 12\n\n[Total]\nFrom To 수 : 5\n총 배관 길이 (mm) : 42158.97\n총 elbow 수 (EA) : 49"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EPA3511",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 10126.0\nElbow(EA) : 12\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 9955.0\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 20081.0\n총 elbow 수 (EA) : 19"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "WTD35T1",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[HEAT]\nSize(mm) : 200.0\nlength(mm) : 11086.0\nElbow(EA) : 15\n\n[ACID]\nSize(mm) : 200.0\nlength(mm) : 9158.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 200.0\nlength(mm) : 10258.99\nElbow(EA) : 5\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 30503.979999999996\n총 elbow 수 (EA) : 25"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "WWI3504",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 200.0\nlength(mm) : 7937.99\nElbow(EA) : 6\n\n[HEAT]\nSize(mm) : 200.0\nlength(mm) : 7006.66\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 200.0\nlength(mm) : 9048.99\nElbow(EA) : 3\n\n[Total]\nFrom To 수 : 3\n총 배관 길이 (mm) : 23993.64\n총 elbow 수 (EA) : 16"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EPA3510",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 7839.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 8017.0\nElbow(EA) : 5\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 15856.0\n총 elbow 수 (EA) : 11"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELO3511",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6191.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8324.0\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8117.99\nElbow(EA) : 2\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 13155.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 12645.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 13853.0\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14993.99\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 17301.0\nElbow(EA) : 5\n\n[Total]\nFrom To 수 : 8\n총 배관 길이 (mm) : 94582.96\n총 elbow 수 (EA) : 63"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EMA3504",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8103.0\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9001.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 18179.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 17955.99\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 40.0\nlength(mm) : 21439.0\nElbow(EA) : 16\n\n[Total]\nFrom To 수 : 5\n총 배관 길이 (mm) : 74679.97\n총 elbow 수 (EA) : 52"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3529",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7540.99\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 5778.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6710.0\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8958.99\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 40.0\nlength(mm) : 7312.0\nElbow(EA) : 6\n\n[Total]\nFrom To 수 : 5\n총 배관 길이 (mm) : 36299.979999999996\n총 elbow 수 (EA) : 40"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ESP3506",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 4476.0\nElbow(EA) : 1\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 4899.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5494.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6679.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6735.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6486.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7356.0\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6918.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9058.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8043.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 12851.0\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 78997.97\n총 elbow 수 (EA) : 76"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3525",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4690.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5520.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5652.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5815.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5977.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6459.0\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9351.99\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 11186.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 10974.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14019.99\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 79651.91\n총 elbow 수 (EA) : 60"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ESP3505",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 4733.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 4476.0\nElbow(EA) : 1\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5494.0\nElbow(EA) : 4\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7258.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5880.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6390.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7218.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6743.0\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 13130.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 13012.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14957.0\nElbow(EA) : 14\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 89296.94\n총 elbow 수 (EA) : 82"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3524",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 4770.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5115.99\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7259.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6168.0\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6475.0\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6203.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7355.0\nElbow(EA) : 12\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8286.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 13825.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14150.0\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 79608.97\n총 elbow 수 (EA) : 74"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EAP3522",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5265.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5265.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5102.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5940.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6168.0\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7175.0\nElbow(EA) : 13\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7003.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6555.0\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9537.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 12507.99\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 70522.94\n총 elbow 수 (EA) : 82"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ETP3501",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9142.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8420.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8870.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 49.0\nlength(mm) : 8805.0\nElbow(EA) : 13\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8324.99\nElbow(EA) : 5\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8590.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 10096.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 17099.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 18290.99\nElbow(EA) : 15\n\n[ACID]\nSize(mm) : 49.0\nlength(mm) : 18442.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 49.0\nlength(mm) : 18800.99\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 134885.91999999998\n총 elbow 수 (EA) : 102"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ESP3502",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5925.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7469.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7373.99\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7600.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8228.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8913.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 6036.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8239.0\nElbow(EA) : 13\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8390.25\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 8387.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 13653.0\nElbow(EA) : 15\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 90218.2\n총 elbow 수 (EA) : 91"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ETO35N2",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8384.84\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7291.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 8436.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8912.24\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 9088.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 9076.0\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8191.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 9522.99\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 10164.0\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 10026.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 18415.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 19967.99\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 12\n총 배관 길이 (mm) : 127480.01000000001\n총 elbow 수 (EA) : 104"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ETP3505",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 49.0\nlength(mm) : 6291.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6967.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7958.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8582.55\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8842.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 49.0\nlength(mm) : 8073.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 9981.33\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8190.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 9018.99\nElbow(EA) : 13\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9124.99\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 49.0\nlength(mm) : 19505.99\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 102538.81000000001\n총 elbow 수 (EA) : 84"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ETO3568",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6100.99\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7812.0\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7972.0\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8867.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9209.6\nElbow(EA) : 12\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9289.99\nElbow(EA) : 17\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8770.99\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9041.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 17837.0\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 19280.0\nElbow(EA) : 10\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 104182.54999999999\n총 elbow 수 (EA) : 92"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ESP3504",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5539.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5589.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 5560.0\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6530.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6428.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5925.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6835.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6531.0\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8488.0\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 12701.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 14348.0\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 84477.95999999999\n총 elbow 수 (EA) : 70"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ESP3503",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6089.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6069.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6480.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7385.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6388.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 6036.0\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8013.0\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9518.28\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 10835.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14345.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 14348.0\nElbow(EA) : 9\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 95509.25\n총 elbow 수 (EA) : 77"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ESP3501",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 5991.99\nElbow(EA) : 3\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 5874.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6768.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6451.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9428.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7688.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7737.0\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9613.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8419.0\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 25.0\nlength(mm) : 8761.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 14488.0\nElbow(EA) : 12\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 91221.95999999999\n총 elbow 수 (EA) : 92"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ETO3569",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6934.99\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 7301.0\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8822.0\nElbow(EA) : 11\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9051.99\nElbow(EA) : 6\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 10409.0\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8567.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9920.99\nElbow(EA) : 14\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 11129.0\nElbow(EA) : 15\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9591.99\nElbow(EA) : 10\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 18940.99\nElbow(EA) : 14\n\n[Total]\nFrom To 수 : 10\n총 배관 길이 (mm) : 100669.94\n총 elbow 수 (EA) : 93"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "WLT35P1",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 200.0\nlength(mm) : 7130.99\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 200.0\nlength(mm) : 7323.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8203.0\nElbow(EA) : 4\n\n[ACID]\nSize(mm) : 200.0\nlength(mm) : 8731.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8540.0\nElbow(EA) : 12\n\n[HEAT]\nSize(mm) : 100.0\nlength(mm) : 7004.99\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8708.77\nElbow(EA) : 11\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 10184.0\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 11238.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 11367.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 200.0\nlength(mm) : 11767.0\nElbow(EA) : 8\n\n[Total]\nFrom To 수 : 11\n총 배관 길이 (mm) : 100197.75\n총 elbow 수 (EA) : 90"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "EPA3530",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 7975.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 50.0\nlength(mm) : 9605.0\nElbow(EA) : 13\n\n[Total]\nFrom To 수 : 2\n총 배관 길이 (mm) : 17580.989999999998\n총 elbow 수 (EA) : 21"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELO3510",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5860.99\nElbow(EA) : 8\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 6310.0\nElbow(EA) : 7\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6241.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8294.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 6080.0\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8028.99\nElbow(EA) : 13\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 8011.0\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6356.0\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 8\n총 배관 길이 (mm) : 55182.969999999994\n총 elbow 수 (EA) : 65"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ETO35N1",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 7786.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 8062.99\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7812.25\nElbow(EA) : 7\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8091.99\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 8502.99\nElbow(EA) : 12\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 9312.07\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 9359.66\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 8772.99\nElbow(EA) : 10\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 10070.36\nElbow(EA) : 9\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 9764.6\nElbow(EA) : 13\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8742.0\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 50.0\nlength(mm) : 10289.0\nElbow(EA) : 11\n\n[Total]\nFrom To 수 : 12\n총 배관 길이 (mm) : 106567.89000000001\n총 elbow 수 (EA) : 102"
+    },
+    {
+        "state": "SUCCESS",
+        "equip": "ELO3509",
+        "description": "<입력 정보 검증 결과> \n이상 없음<전처리 결과>\n 이상 없음\n<라우팅 결과>\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 7910.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5821.99\nElbow(EA) : 3\n\n[CABINET]\nSize(mm) : 100.0\nlength(mm) : 8294.0\nElbow(EA) : 9\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7265.99\nElbow(EA) : 6\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 7224.0\nElbow(EA) : 8\n\n[ACID]\nSize(mm) : 150.0\nlength(mm) : 5774.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6098.99\nElbow(EA) : 5\n\n[ACID]\nSize(mm) : 100.0\nlength(mm) : 6356.0\nElbow(EA) : 7\n\n[Total]\nFrom To 수 : 8\n총 배관 길이 (mm) : 54745.95999999999\n총 elbow 수 (EA) : 51"
+    }
+]

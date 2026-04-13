@@ -1,0 +1,28 @@
+.RuleSetsContainer {
+    display: block;
+    width: 130px;
+    height: 100%;
+    scrollbar-width: none;
+    overflow-y: scroll;
+    background-color: var(--slz-light-gray);
+    border-radius: 5px;
+}
+
+.ContainerTitle {
+    margin: 0 0 4px 0;
+    padding: 6px;
+    background-color: var(--slz-dark-green);
+    font-weight: bold;
+    color: white;
+}
+
+.RuleSetLabel {
+    margin: 0 0 4px 0;
+    padding: 6px;
+    background-color: var(--slz-gray);
+}
+
+.RuleSetLabelSelected {
+    color: white;
+    background-color: var(--slz-blue);
+}
